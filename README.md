@@ -32,7 +32,7 @@
 <a href="https://fb.com/aakash singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash singh" height="30" width="40" /></a>
 <a href="https://instagram.com/aakash_.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash_.777" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/web guruji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="web guruji" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aakash_727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aakash_727" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rktaakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aakash_727" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rktaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rktaakash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/joker_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakash777" height="30" width="40" /></a>
 </p>
