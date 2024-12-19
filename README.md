@@ -1,4 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--SVNOHDrA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ubd7vsed4dogbvnfh93h.jpg)]
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1200/1*FERd_evJ8EoDzZHJVfY3tA.gif">
