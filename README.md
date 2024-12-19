@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/singhaakash777" target="blank"><img src="https://img.shields.io/twitter/follow/singhaakash777?logo=twitter&style=for-the-badge" alt="singhaakash777" /></a> </p>
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **Web3 & Artificial Intelligence**
 
-- 🌱 I’m currently learning **Solidity , React, Three.js**
+- 🌱 I’m currently learning **Solidity , React, Three.js, Python, LLMs**
 
-- 👯 I’m looking to collaborate on **Blockhain-based projects**
+- 👯 I’m looking to collaborate on **Blockhain-based projects and LLM-based projects**
 
-- 🤝 I’m looking for help with **Web3 blockchain technology**
+- 🤝 I’m looking for help with **Web3 blockchain technology and Artificial Intelligence**
 
 - 💬 Ask me about **Web, Web3 , Blockchain, AI**
 
